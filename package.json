@@ -1,0 +1,14 @@
+{
+  "name": "genivabot",
+  "version": "1.0.0",
+  "description": "cool bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lexxq",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
